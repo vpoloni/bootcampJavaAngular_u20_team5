@@ -2,7 +2,7 @@
 proyectos Maven (Isidre, Veronika, Marc)
 
 <ul>
-  <li>    - [ ] Isidre 3,5,8    </li>
+  <li>    - [X] Isidre 3,5,8    </li>
    <li>   - [X] Veronika 1,4,7  </li>
-  <li>    - [ ] Marc 2,6 </li> 
+  <li>    - [X] Marc 2,6 </li> 
 </ul>
