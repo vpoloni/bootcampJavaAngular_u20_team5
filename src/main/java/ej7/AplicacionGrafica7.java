@@ -123,5 +123,7 @@ public class AplicacionGrafica7 extends JFrame {
 		return resultadoConvertido;
 
 	}
+	
+	
 
 }
